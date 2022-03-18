@@ -1,3 +1,10 @@
+# Face Recognition
+Using the deep face library, i managed to build up a system to make a adding face database management system and using the database, we could do very fast face detection and accuracte face recognition in camera stream with proper FPS.
+
+![demo_video](face_recognition_demo.mp4)
+
+<br/>
+
 # deepface
 
 <div align="center">
