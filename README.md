@@ -1,6 +1,12 @@
 # Face Recognition
 Using the deep face library, i managed to build up a system to make a adding face database management system and using the database, we could do very fast face detection and accuracte face recognition in camera stream with proper FPS.
 
+## How to run
+
+``` python face_recognition.py ```
+- type 1 for adding new faces and press space to take a picture
+- type 2 to run face recognition system for detection
+
 ![demo_video](face_recognition_demo.mp4)
 
 <br/>
